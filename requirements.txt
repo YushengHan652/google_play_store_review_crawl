@@ -1,2 +1,6 @@
 ipykernel
 python-dotenv
+google_play_scraper
+app_store_scraper
+pandas
+numpy
